@@ -98,10 +98,6 @@ members:
       - name: Master's students (Research Master's)
         full: False
         list:
-          - name: Lifan Yu (MSCV) -> CapSen Robotics
-            web_url: https://www.ri.cmu.edu/ri-people/lifan-yu/
-          - name: Haoyue Liu (MSCV) -> Fourier Robotics
-            web_url: https://www.ri.cmu.edu/ri-people/haoyue-liu/
           - name: Octavian Donca (MSR) -> Skild AI
             web_url: https://www.ri.cmu.edu/ri-people/octavian-donca/
           - name: Pranay Gupta (MSR) -> CMU PhD
@@ -160,6 +156,10 @@ members:
       - name: Master's students (Capstone Project)
         full: False
         list:
+          - name: Lifan Yu (MSCV) -> CapSen Robotics
+            web_url: https://www.ri.cmu.edu/ri-people/lifan-yu/
+          - name: Haoyue Liu (MSCV) -> Fourier Robotics
+            web_url: https://www.ri.cmu.edu/ri-people/haoyue-liu/
           - name: Yi Gu (MRSD)
             web_url: https://www.ri.cmu.edu/ri-people/yi-gu/
           - name: Arpit Jangid (MSCV)
