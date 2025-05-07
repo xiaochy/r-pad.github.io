@@ -36,9 +36,6 @@ members:
       - name: Masters Students
         full: true
         list:
-          - name: Octavian Donca (MSR)
-            photo_url: https://www.ri.cmu.edu/app/uploads/2023/09/odonca-1-300x450.jpg
-            web_url: https://www.ri.cmu.edu/ri-people/octavian-donca/
           - name: Eric Cai (MSR)
             photo_url: /img/members/ericcai.jpg
             web_url: https://www.ri.cmu.edu/ri-people/ericcai/
@@ -54,12 +51,6 @@ members:
           - name: Alexis Hao (MSR)
             photo_url: /img/members/alexis.jpg
             web_url: hhttps://www.ri.cmu.edu/ri-people/vivian-hao/
-          - name: Lifan Yu (MSCV)
-            photo_url: /img/members/lifanyu.jpg
-            web_url: https://www.ri.cmu.edu/ri-people/lifan-yu/
-          - name: Haoyue Liu (MSCV)
-            photo_url: /img/members/haoyueliu.jpg
-            web_url: https://www.ri.cmu.edu/ri-people/haoyue-liu/
           - name: Mino Nakura (MSR)
             photo_url: /img/members/mino.jpg
             web_url: https://www.ri.cmu.edu/ri-people/maxwell-mino-nakura-fan/
@@ -84,9 +75,6 @@ members:
       - name: Visiting Students
         full: true
         list:
-          - name: Jacinto Suner
-            photo_url: https://www.ri.cmu.edu/app/uploads/2024/09/Jacinto-Suner-2024.jpg
-            web_url: https://www.ri.cmu.edu/ri-people/jacinto-suner/
   - name: <a name="alumni"></a>Alumni
     list:
       - name: Post-Doc alumni
@@ -110,6 +98,12 @@ members:
       - name: Master's students (Research Master's)
         full: False
         list:
+          - name: Lifan Yu (MSCV) -> CapSen Robotics
+            web_url: https://www.ri.cmu.edu/ri-people/lifan-yu/
+          - name: Haoyue Liu (MSCV) -> Fourier Robotics
+            web_url: https://www.ri.cmu.edu/ri-people/haoyue-liu/
+          - name: Octavian Donca (MSR) -> Skild AI
+            web_url: https://www.ri.cmu.edu/ri-people/octavian-donca/
           - name: Pranay Gupta (MSR) -> CMU PhD
             web_url: https://pranaygupta36.github.io/
           - name: Zhanyi Sun (MSR) -> Stanford PhD
@@ -181,6 +175,7 @@ members:
       - name: Undergraduate students
         full: False
         list:
+          - name: Jacinto Suner -> Oxford MSCS
           - name: TJ Vitchutripop -> Yale PhD
           - name: Yishu Li -> CMU MSR
           - name: Angela Rodriguez-Izquierdo -> Princeton PhD
