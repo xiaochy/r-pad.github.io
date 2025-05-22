@@ -19,23 +19,22 @@
   authors: Yufei Wang*, Ziyu Wang*, Mino Nakura&dagger;, Pratik Bhowal&dagger;, Chia-Liang Kuo&dagger;, Yi-Ting Chen, Zackory Erickson&dagger;, David Held&dagger;
   award: null
   bib: >
-    @article{gupta2023object,
-      title={Object Importance Estimation using Counterfactual Reasoning for Intelligent Driving},
-      author={Gupta, Pranay and Biswas, Abhijat and Admoni, Henny and Held, David},
-      journal={IEEE Robotics and Automation Letters},
-      year={2023}
+     @inproceedings{wang2025ArticuBot
+      title={ArticuBot: Learning Universal Articulated Object Manipulation Policy via Large Scale Simulation},
+      author={Wang, Yufei and Wang, Ziyu and Nakura, Mino and Bhowal, Pratik and Kuo, Chia-Liang and Chen, Yi-Ting and Erickson, Zackory and Held, David},
+      booktitle={Robotics: Science and Systems (RSS)},
+      year={2025}
     }
-  img: null
+  img: ''
   links: 
-      '[arXiv]': https://arxiv.org/abs/2312.02467
-      '[Code]': https://github.com/vehicle-importance/oiecr
-  short_id: gupta2023object
-  site: https://vehicle-importance.github.io/
+      '[arXiv]': https://arxiv.org/abs/2503.03045
+  short_id: wang2025ArticuBot
+  site: https://articubot.github.io/
   title: "ArticuBot: Learning Universal Articulated Object Manipulation Policy via Large Scale Simulation"
   venue: "Robotics: Science and Systems (RSS)"
   video_embed: null
   tags: 
-      - auto_driving
+      - 3D_afford_obj_manip
 
 - abs: "The ability to identify important objects in a complex and dynamic driving environment is essential for autonomous driving agents to make safe and efficient driving decisions. It also helps assistive driving systems decide when to alert drivers. We tackle object importance estimation in a data-driven fashion and introduce HOIST - Human-annotated Object Importance in Simulated Traffic. HOIST contains driving scenarios with human-annotated importance labels for vehicles and pedestrians. We additionally propose a novel approach that relies on counterfactual reasoning to estimate an object's importance. We generate counterfactual scenarios by modifying the motion of objects and ascribe importance based on how the modifications affect the ego vehicle's driving. Our approach outperforms strong baselines for the task of object importance estimation on HOIST. We also perform ablation studies to justify our design choices and show the significance of the different components of our proposed approach."
   authors: Pranay Gupta, Abhijat Biswas, Henny Admoni, David Held
