@@ -21,7 +21,7 @@
   bib: >
     @article{wang2025ArticuBot,
       title={ArticuBot: Learning Universal Articulated Object Manipulation Policy via Large Scale Simulation},
-      author={Gupta, Pranay and Biswas, Abhijat and Admoni, Henny and Held, David},
+      author={Wang, Yufei and Wang, Ziyu and Nakura, Mino and Bhowal, Pratik and Kuo, Chia-Liang and Chen, Yi-Ting and Erickson, Zackory and Held, David},
       journal={Robotics: Science and Systems (RSS)},
       year={2025}
     }
