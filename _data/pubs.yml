@@ -16,16 +16,16 @@
 # deform_obj_manip, 3D_afford_obj_manip, multimodal, rl_algs, auto_driving, active_perception, self_sup_rob
 
 - abs: "This paper presents ArticuBot, in which a single learned policy enables a robotics system to open diverse categories of unseen articulated objects in the real world. This task has long been challenging for robotics due to the large variations in the geometry, size, and articulation types of such objects. Our system, Articubot, consists of three parts: generating a large number of demonstrations in physics-based simulation, distilling all generated demonstrations into a point cloud-based neural policy via imitation learning, and performing zero-shot sim2real transfer to real robotics systems. Utilizing sampling-based grasping and motion planning, our demonstration generalization pipeline is fast and effective, generating a total of 42.3k demonstrations over 322 training articulated objects. For policy learning, we propose a novel hierarchical policy representation, in which the high-level policy learns the sub-goal for the end-effector, and the low-level policy learns how to move the end-effector conditioned on the predicted goal. We demonstrate that this hierarchical approach achieves much better object-level generalization compared to the non-hierarchical version. We further propose a novel weighted displacement model for the high-level policy that grounds the prediction into the existing 3D structure of the scene, outperforming alternative policy representations. We show that our learned policy can zero-shot transfer to three different real robot settings: a fixed table-top Franka arm across two different labs, and an X-Arm on a mobile base, opening multiple unseen articulated objects across two labs, real lounges, and kitchens."
-  authors: Pranay Gupta, Abhijat Biswas, Henny Admoni, David Held
+  authors: Yufei Wang* and Ziyu Wang* and Mino Nakura&dagger; and Pratik Bhowal&dagger; and Chia-Liang Kuo&dagger; and Yi-Ting Chen and Zackory Erickson&Dagger; and David Held&Dagger;
   award: null
   bib: >
-    @article{gupta2023object,
-      title={Object Importance Estimation using Counterfactual Reasoning for Intelligent Driving},
-      author={Gupta, Pranay and Biswas, Abhijat and Admoni, Henny and Held, David},
-      journal={IEEE Robotics and Automation Letters},
-      year={2023}
+     @inproceedings{wang2025ArticuBot
+      title={ArticuBot: Learning Universal Articulated Object Manipulation Policy via Large Scale Simulation},
+      author={Wang, Yufei and Wang, Ziyu and Nakura, Mino and Bhowal, Pratik and Kuo, Chia-Liang and Chen, Yi-Ting and Erickson, Zackory and Held, David},
+      booktitle={Robotics: Science and Systems (RSS)},
+      year={2025}
     }
-  img: ../pics/gupta2023object.png
+  img: null
   links: 
       '[arXiv]': https://arxiv.org/abs/2312.02467
       '[Code]': https://github.com/vehicle-importance/oiecr
