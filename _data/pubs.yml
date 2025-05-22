@@ -40,11 +40,11 @@
   authors: Pranay Gupta, Abhijat Biswas, Henny Admoni, David Held
   award: null
   bib: >
-    @article{gupta2023object,
+    @article{gupta2024object,
       title={Object Importance Estimation using Counterfactual Reasoning for Intelligent Driving},
       author={Gupta, Pranay and Biswas, Abhijat and Admoni, Henny and Held, David},
       journal={IEEE Robotics and Automation Letters},
-      year={2023}
+      year={2024}
     }
   img: ../pics/gupta2023object.png
   links: 
