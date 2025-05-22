@@ -19,11 +19,11 @@
   authors: Yufei Wang*, Ziyu Wang*, Mino Nakura&dagger;, Pratik Bhowal&dagger;, Chia-Liang Kuo&dagger;, Yi-Ting Chen, Zackory Erickson&dagger;, David Held&dagger;
   award: null
   bib: >
-     @inproceedings{wang2025ArticuBot
-      title={ArticuBot: Learning Universal Articulated Object Manipulation Policy via Large Scale Simulation},
-      author={Wang, Yufei and Wang, Ziyu and Nakura, Mino and Bhowal, Pratik and Kuo, Chia-Liang and Chen, Yi-Ting and Erickson, Zackory and Held, David},
-      booktitle={Robotics: Science and Systems (RSS)},
-      year={2025}
+    @article{gupta2023object,
+      title={Object Importance Estimation using Counterfactual Reasoning for Intelligent Driving},
+      author={Gupta, Pranay and Biswas, Abhijat and Admoni, Henny and Held, David},
+      journal={IEEE Robotics and Automation Letters},
+      year={2023}
     }
   img: ''
   links: 
