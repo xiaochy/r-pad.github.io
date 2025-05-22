@@ -19,10 +19,10 @@
   authors: Yufei Wang*, Ziyu Wang*, Mino Nakura&dagger;, Pratik Bhowal&dagger;, Chia-Liang Kuo&dagger;, Yi-Ting Chen, Zackory Erickson&Dagger;, David Held&Dagger;
   award: null
   bib: >
-    @article{wang2025ArticuBot,
-      title={ArticuBot: Learning Universal Articulated Object Manipulation Policy via Large Scale Simulation},
+    @INPROCEEDINGS{wang-2025-ArticuBot,
+      title={{ArticuBot: Learning Universal Articulated Object Manipulation Policy via Large Scale Simulation}},
       author={Wang, Yufei and Wang, Ziyu and Nakura, Mino and Bhowal, Pratik and Kuo, Chia-Liang and Chen, Yi-Ting and Erickson, Zackory and Held, David},
-      journal={Robotics: Science and Systems (RSS)},
+      BOOKTITLE={Proceedings of Robotics: Science and Systems (RSS)},
       year={2025}
     }
   img: ''
@@ -174,12 +174,15 @@
   authors: Bowen Jiang*, Yilin Wu*, Wenxuan Zhou, Chris Paxton, David Held
   award: null
   bib: >
-    @inproceedings{jiang2024hacman++,
-      title={HACMan++: Spatially-Grounded Motion Primitives for Manipulation},
-      author={Jiang, Bowen and Wu, Yilin and Zhou, Wenxuan and Paxton, Chris and Held, David},
-      booktitle={Robotics: Science and Systems (RSS)},
-      year={2024}
-    }
+    @INPROCEEDINGS{Jiang-RSS-24, 
+        AUTHOR    = {Bowen Jiang AND Yilin Wu AND Wenxuan Zhou AND Chris Paxton AND David Held}, 
+        TITLE     = {{HACMan++: Spatially-Grounded Motion Primitives for Manipulation}}, 
+        BOOKTITLE = {Proceedings of Robotics: Science and Systems}, 
+        YEAR      = {2024}, 
+        ADDRESS   = {Delft, Netherlands}, 
+        MONTH     = {July}, 
+        DOI       = {10.15607/RSS.2024.XX.129} 
+    }  
   img: ../pics/hacman++.gif
   links:
       '[arXiv]': https://arxiv.org/pdf/2407.08585
