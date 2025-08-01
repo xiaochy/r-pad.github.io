@@ -4,7 +4,7 @@
 #  authors: null
 #  award: null
 #  bib: null
-#  img: null
+#  img: ''
 #  links: {}
 #  short_id: null
 #  site: null
@@ -19,7 +19,7 @@
   authors: Divyam Goel, Yufei Wang, Tiancheng Wu, Helen Qiao, Pavel Piliptchak, David Held&dagger;, Zackory Erickson&dagger;
   award: null
   bib: null
-  img: null
+  img: ''
   links: {}
   short_id: goel2025geometric
   site: null
@@ -32,7 +32,7 @@
   authors: Yishu Li, Xinyi Mao, Ying Yuan, Kyutae Sim, Ben Eisner, David Held
   award: null
   bib: null
-  img: null
+  img: ''
   links: {}
   short_id: li2025have
   site: null
@@ -45,7 +45,7 @@
   authors: Kallol Saha*, Amber Li*, Angela Rodriguez-Izquierdo, Lifan Yu, Ben Eisner, Maxim Likhachev, David Held
   award: null
   bib: null
-  img: null
+  img: ''
   links: {}
   short_id: saha2025planning
   site: null
@@ -58,7 +58,7 @@
   authors: Alexis Yihong Hao, Yufei Wang, Navin Sriram Ravie, Bharath Hegde, David Held&dagger;, Zackory Erickson&dagger;
   award: null
   bib: null
-  img: null
+  img: ''
   links: {}
   short_id: hao2025dressing
   site: null
