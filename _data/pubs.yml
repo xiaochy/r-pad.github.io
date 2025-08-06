@@ -15,6 +15,29 @@
 # Current tags for research areas, see the research areas page for more details:
 # deform_obj_manip, 3D_afford_obj_manip, multimodal, rl_algs, auto_driving, active_perception, self_sup_rob
 
+
+- abs: "Offline reinforcement learning can enable policy learning from pre-collected, sub-optimal datasets without online interactions. This makes it ideal for real-world robots and safety-critical scenarios, where collecting online data or expert demonstrations is slow, costly, and risky. However, most existing offline RL works assume the dataset is already labeled with the task rewards, a process that often requires significant human effort, especially when ground-truth states are hard to ascertain (e.g., in the real-world). In this paper, we build on prior work, specifically RL-VLM-F, and propose a novel system that automatically generates reward labels for offline datasets using preference feedback from a vision-language model and a text description of the task. Our method then learns a policy using offline RL with the reward-labeled dataset. We demonstrate the system’s applicability to a complex real-world robot-assisted dressing task, where we first learn a reward function using a vision-language model on a sub-optimal offline dataset, and then we use the learned reward to employ Implicit Q learning to develop an effective dressing policy. Our method also performs well in simulation tasks involving the manipulation of rigid and deformable objects, and significantly outperform baselines such as behavior cloning and inverse RL. In summary, we propose a new system that enables automatic reward labeling and policy learning from unlabeled, sub-optimal offline datasets."
+  authors: Sreyas Venkataraman*, Yufei Wang*, Ziyu Wang, Navin Sriram Ravie, Zackory Erickson&dagger;, David Held&dagger;
+  award: null
+  bib: >
+    @misc{venkataraman2024realworldofflinereinforcementlearning,
+      title={Real-World Offline Reinforcement Learning from Vision Language Model Feedback}, 
+      author={Sreyas Venkataraman and Yufei Wang and Ziyu Wang and Zackory Erickson and David Held},
+      year={2024},
+      eprint={2411.05273},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2411.05273}, 
+    }
+  img: ../pics/offline_rlvlmf.png
+  links: 
+      '[arXiv]': https://arxiv.org/abs/2411.05273
+  short_id: venkataraman2024offlinerlvlmf
+  site: https://offline-rlvlmf.github.io/
+  title: "Real-World Offline Reinforcement Learning from Vision Language Model Feedback "
+  venue: "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025"
+  video_embed: null
+
 - abs: null
   authors: Divyam Goel, Yufei Wang, Tiancheng Wu, Helen Qiao, Pavel Piliptchak, David Held&dagger;, Zackory Erickson&dagger;
   award: null
