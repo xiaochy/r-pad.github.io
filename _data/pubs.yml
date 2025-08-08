@@ -29,7 +29,7 @@
       primaryClass={cs.RO},
       url={https://arxiv.org/abs/2411.05273}, 
     }
-  img: ../pics/offline_rlvlmf.png
+  img: ../pics/offline_rlvlmf.gif
   links: 
       '[arXiv]': https://arxiv.org/abs/2411.05273
   short_id: venkataraman2024offlinerlvlmf
