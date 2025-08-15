@@ -36,9 +36,6 @@ members:
       - name: Masters Students
         full: true
         list:
-          - name: Eric Cai (MSR)
-            photo_url: /img/members/ericcai.jpg
-            web_url: https://www.ri.cmu.edu/ri-people/ericcai/
           - name: Kallol Saha (MSR)
             photo_url: /img/members/kallol.jpg
             web_url: https://kallol-saha.github.io/
@@ -98,6 +95,8 @@ members:
       - name: Master's students (Research Master's)
         full: False
         list:
+          - name: Eric Cai (MSR) -> UW PhD
+            web_url: https://www.ri.cmu.edu/ri-people/ericcai/
           - name: Octavian Donca (MSR) -> Skild AI
             web_url: https://www.ri.cmu.edu/ri-people/octavian-donca/
           - name: Pranay Gupta (MSR) -> CMU PhD
