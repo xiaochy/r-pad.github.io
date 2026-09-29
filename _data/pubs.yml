@@ -82,7 +82,7 @@
 
 - abs: null
   authors: Kallol Saha, Yining Hong, Amber Li, Yejin Choi, Maxim Likhachev, David Held
-  award: null
+  award: <award>Oral Presentation</award>  (Selection rate 1.00%)
   bib: >
     @inproceedings{saha2026longhorizon,
       title={Long-Horizon Multi-Object Rearrangement via Distilled Tree Search over Continuous Actions},
