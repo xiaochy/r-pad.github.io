@@ -51,6 +51,7 @@
     }
   img: '../pics/corl2026_scout.gif'
   links:
+    '[arXiv]': https://arxiv.org/abs/2609.36107
     '[OpenReview]': https://openreview.net/forum?id=FYNtpa7rwN
   short_id: li2026scouting
   site: https://liy1shu.github.io/SCOUT/
